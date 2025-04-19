@@ -60,7 +60,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 2. Запустите Jupyter Notebook:
 ```bash
-jupyter notebook airline_passenger_satisfaction.ipynb
+jupyter notebook ML.ipynb
 ```
 
 3. Для просмотра результатов без запуска кода:
